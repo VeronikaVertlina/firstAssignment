@@ -1,0 +1,16 @@
+[
+  {
+    "firstTeam": "Liverpool",
+    "secondTeam": "Arsenal",
+    "startDate": "12.12.2019",
+    "score": "3:0",
+    "tournament": "Euro"
+  },
+  {
+    "firstTeam": "Manchester United",
+    "secondTeam": "Chelsea",
+    "startDate": "24.12.2019",
+    "score": "3:3",
+    "tournament": "Euro"
+  }
+]
